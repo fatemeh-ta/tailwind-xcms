@@ -1,0 +1,14 @@
+/**
+ * @copyright Copyright(c) Muhammad Hussein Fattahizadeh. All rights reserved.
+ * @author Muhammad Hussein Fattahizadeh
+ * @link <http://mhf.ir/>
+ */
+/**
+ * If you use bold font in your site use this structure :
+ 
+b,strong,h1,h2,h3,h4,h5,h6 {
+	font-family: 'BTitrBold';
+	font-weight: normal;
+}
+
+ */

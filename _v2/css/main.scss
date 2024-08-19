@@ -1,0 +1,20 @@
+/**
+ * @author Muhammad Hussein Fattahizadeh <m@mhf.ir>
+ * @copyright (c) 2016, Muhammad Hussein Fattahizadeh <m@mhf.ir>
+ */
+
+// REQUIRED: first render font, normalize, libs like fontawesome
+@import "include/fonts";
+@import "include/base";
+@import "lib/normalize";
+@import "lib/font-awesome";
+@import "lib/video-js";
+
+// // OPTIONAL
+// @import "lib/jquery.fancybox";
+// @import "lib/lightslider";
+// @import "lib/animate";
+// @import "lib/lightgallery";
+
+// // edit core ehere your style codes here
+@import "styles/main";

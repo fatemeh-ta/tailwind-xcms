@@ -1,0 +1,16 @@
+// DONT EDIT THIS FILE
+@import "lib/compilehash";
+@import "include/mixins";
+@import "include/variables";
+@import "../lib/sass/susy/susy";
+
+$susy: (
+  columns: $columns,
+  flow: rtl,
+  math: fluid,
+  gutters: 0,
+  global-box-sizing: border-box,
+  debug: (image: show)
+);
+
+@import "main";

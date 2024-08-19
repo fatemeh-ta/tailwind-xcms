@@ -1,0 +1,22 @@
+{
+  "name": "aasaam-xcms-project",
+  "version": "0.0.1",
+  "description": "AASAAM Project",
+  "license": "proprietary",
+  "private": true,
+  "contributors": [
+    "Muhammad Hussein Fattahizadeh <m@mhf.ir>"
+  ],
+  "dependencies": {
+    "grunt": "~1.0",
+    "grunt-bower-task": "~0.4",
+    "grunt-contrib-concat": "~1.0",
+    "grunt-contrib-copy": "~1.0",
+    "grunt-contrib-sass": "~1.0",
+    "grunt-contrib-uglify": "~2.0",
+    "grunt-contrib-watch": "~1.0",
+    "grunt-shell": "~2.1",
+    "grunt-string-replace": "~1.3",
+    "grunt-strip-css-comments": "~1.3"
+  }
+}

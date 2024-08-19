@@ -1,0 +1,15 @@
+# global
+*~
+Thumbs.db
+!.gitignore
+.DS_Store
+*.log
+*.local.php
+
+# eclipse
+.settings
+.buildpath
+.project
+
+# netbeans
+nbproject

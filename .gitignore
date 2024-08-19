@@ -1,0 +1,28 @@
+# global
+*~
+Thumbs.db
+!.gitignore
+.DS_Store
+*.log
+*.local.php
+
+# eclipse
+.settings
+.buildpath
+.project
+
+# netbeans
+nbproject
+
+www-test/
+www-stable/
+
+bower_components/
+node_modules/
+_v2/lib/
+_v2/css/lib/
+_v2/css/*.css
+_v2/css/*.map
+_v2/js/*.map
+_v2/js/*.min.js
+.sass-cache/

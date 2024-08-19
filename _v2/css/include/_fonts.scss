@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../lib/fonts/fontawesome-webfont.eot?v=#{$compileHash}');
+  src: url('../lib/fonts/fontawesome-webfont.eot?v=#{$compileHash}#iefix') format('embedded-opentype'),
+    url('../lib/fonts/fontawesome-webfont.woff2?v=#{$compileHash}') format('woff2'),
+    url('../lib/fonts/fontawesome-webfont.woff?v=#{$compileHash}') format('woff'),
+    url('../lib/fonts/fontawesome-webfont.ttf?v=#{$compileHash}') format('truetype'),
+    url('../lib/fonts/fontawesome-webfont.svg?v=#{$compileHash}#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'lg';
+  src: url("../lib/fonts/lg.eot?v=#{$compileHash}");
+  src: url("../lib/fonts/lg.eot?v=#{$compileHash}") format("embedded-opentype"),
+    url("../lib/fonts/lg.woff?v=#{$compileHash}") format("woff"),
+    url("../lib/fonts/lg.ttf?v=#{$compileHash}") format("truetype"),
+    url("../lib/fonts/lg.svg?v=#{$compileHash}#lg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: VideoJS;
+  src: url("../lib/fonts/VideoJS.eot?v=#{$compileHash}");
+  src: url("../lib/fonts/VideoJS.eot?v=#{$compileHash}#iefix") format("embedded-opentype"),
+    url("../lib/fonts/VideoJS.woff?v=#{$compileHash}") format("woff"),
+    url("../lib/fonts/VideoJS.ttf?v=#{$compileHash}") format("truetype"),
+    url("../lib/fonts/VideoJS.svg?v=#{$compileHash}#lg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

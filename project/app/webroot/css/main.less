@@ -1,0 +1,17 @@
+/**
+ * Less your css...
+ */
+body {
+	color: @font-color;
+	background-color: @body-background;
+	a {
+		color: @link-color;
+		&:hover {
+			color: (@link-color + #000) / 2;
+			background-color: (@link-color + #fff) / 2;
+		}
+		&:visited {
+			color: (@link-color + @font-color) / 2;
+		}
+	}
+}
