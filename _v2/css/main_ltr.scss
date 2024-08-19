@@ -2,14 +2,14 @@
 @import "lib/compilehash";
 @import "include/mixins";
 @import "include/variables";
-@import "../lib/sass/susy/susy";
+// @import "../lib/sass/susy/susy";
 
-$susy: (
-  columns: $columns,
-  flow: ltr,
-  math: fluid,
-  gutters: 0,
-  global-box-sizing: border-box
-);
+// $susy: (
+//   columns: $columns,
+//   flow: ltr,
+//   math: fluid,
+//   gutters: 0,
+//   global-box-sizing: border-box
+// );
 
 @import "main";
