@@ -20,10 +20,15 @@ module.exports = function (grunt) {
         map: true,
         processors: [require("tailwindcss"), require("autoprefixer")],
       },
-      dist: {
-        src: "./_v2/css/styles/input.css",
-        dest: "./_v2/css/styles/output.css",
+      home: {
+        src: './_v2/css/styles/input/home.css',
+        dest: './_v2/css/styles/output/home.css',
       },
+      default: {
+        src: './_v2/css/styles/input/default.css',
+        dest: './_v2/css/styles/output/default.css',
+      },
+      // other pages
     },
 
     clean: {

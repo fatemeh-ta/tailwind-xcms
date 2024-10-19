@@ -22,7 +22,7 @@ $bodyAttributes = [
 
 $cssLinks = [
 //   'main_rtl_home',
-  'styles/output'
+  'styles/output/home'
 ];
 
 require XCMS_PATH . '/core-common/app/View/Layouts/_v2/head.ctp';
