@@ -6,7 +6,7 @@ $bodyAttributes = [
 	'class' => '',
 ];
 $cssLinks = [
-  'styles/output',
+  'styles/output/default',
 ];
 
 // require XCMS_PATH . '/core-common/app/View/Layouts/_v2/head.ctp';
